@@ -1,6 +1,6 @@
 ## Module for Dsan LimiTimer countdown clock/timer
 
-Adds functionality to Companion and network commands by using GlobalCache serial device on LimiTimer rack unit. Ensure to set 9800 Baud.
+Adds functionality to Companion and network commands by using GlobalCache serial device on LimiTimer rack unit. Ensure to set 9800 baud.
 
 ### Supported commands
 
