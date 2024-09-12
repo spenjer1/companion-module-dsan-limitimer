@@ -1,15 +1,17 @@
 {
 	"name": "dsan-limitimer",
-	"version": "1.1.2",
+	"version": "2.0.0",
 	"api_version": "1.0.0",
 	"keywords": [
 		"Software",
-		"Timing"
+		"Timing",
+		"Countdown",
+		"Timer"
 	],
-	"manufacturer": "Dsan",
-	"product": "Limitimer",
-	"shortname": "Limitimer",
-	"description": "Module to control Dsan Limitimer via Global Cashe TP2SL",
+	"manufacturer": "DSAN",
+	"product": "LimiTimer",
+	"shortname": "LimiTimer",
+	"description": "Module to control DSAN LimiTimer via Global Cashe TP2SL",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"

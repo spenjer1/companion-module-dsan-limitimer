@@ -1,6 +1,3 @@
-{"id":"dsan-limitimer","name":"dsan-limitimer","shortname":"limitimer","description":"DSAN LimiTimer serial plugin for Companion","version":"2.0.0","license":"MIT","repository":"git+https://github.com/spenjer1/companion-module-dsan-limitimer.git","bugs":"https://github.com/bitfocus/companion-module-dsan-limitimer/issues","maintainers":[{"name":"Spencer Myers","email":"spenjer1@hotmail.com"}],"legacyIds":["limitimer"],"runtime":{"type":"node18","api":"nodejs-ipc","apiVersion":"1.3.0","entrypoint":"../main.js"},"manufacturer":"DSAN","products":["LimiTimer"],"keywords":["Timer","Countdown"]}
-
-
 {
 	"id": "dsan-limitimer",
 	"name": "dsan-limitimer",
